@@ -19,6 +19,7 @@ direnv \
 findutils \
 fping \
 tmux \
+lua@5.4 \
 yq \
 jq \
 gpg \
