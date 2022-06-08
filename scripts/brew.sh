@@ -20,6 +20,7 @@ findutils \
 fping \
 tmux \
 rust \
+rustup \
 lua@5.4 \
 yq \
 jq \
