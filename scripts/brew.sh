@@ -12,6 +12,7 @@ git-flow \
 dive \
 far2l \
 telnet \
+wget \
 binwalk \
 coreutils \
 dep \
