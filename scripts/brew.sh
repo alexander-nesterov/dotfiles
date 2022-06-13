@@ -2,6 +2,7 @@
 
 brew tap homebrew/cask-fonts
 brew tap adoptopenjdk/openjdk
+brew tap hashicorp/tap
 
 echo BREW INSTALL:
 brew install \
@@ -28,4 +29,5 @@ jq \
 gpg \
 vagrant \
 qemu \
-adoptopenjdk11
+adoptopenjdk11 \
+hashicorp/tap/packer
