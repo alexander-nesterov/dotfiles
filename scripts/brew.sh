@@ -27,6 +27,8 @@ lua@5.4 \
 yq \
 jq \
 gpg \
+nmap \
+zenmap \
 vagrant \
 qemu \
 adoptopenjdk11 \
