@@ -20,6 +20,7 @@ dep \
 direnv \
 findutils \
 fping \
+htop \
 tmux \
 rust \
 rustup \
